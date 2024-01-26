@@ -4,7 +4,9 @@
 [![Build and publish](https://github.com/eunomia-bpf/libbpf-starter-template/actions/workflows/publish.yml/badge.svg)](https://github.com/eunomia-bpf/libbpf-starter-template/actions/workflows/publish.yml)
 ![GitHub stars](https://img.shields.io/github/stars/eunomia-bpf/libbpf-starter-template?style=social)
 
-An example to show how to use libbpf for bpf relocate
+An example to show how to use libbpf for bpf relocate. 
+
+For other related examples, please refer to [Expanding eBPF Compile Once, Run Everywhere(CO-RE) to Userspace Compatibility](https://eunomia.dev/tutorials/38-btf-uprobe/)
 
 ## **How to use**
 
